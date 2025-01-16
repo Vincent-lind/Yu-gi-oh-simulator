@@ -1,0 +1,7 @@
+﻿// kortet
+
+
+// spelplan
+
+
+// activeringsdeklarationer 
